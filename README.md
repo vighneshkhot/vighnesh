@@ -1,4 +1,4 @@
-#CAR PRICE PREDICTION
+##CAR PRICE PREDICTION
 Problem Statement:
 
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
@@ -7,6 +7,7 @@ They have contracted an automobile consulting company to understand the factors 
 
 ​and from the project we get 
 Three Conclusions: 
+
 1]Majority of cars have horsepower between 50-150, and a sales price between 5000 - 20000, respectively.
 
 2]As horsepower increases, sales price increases.
